@@ -4,10 +4,4 @@ nep
 neppp
 alter
 my
-<<<<<<< HEAD
-a new one
-=======
-AND
-new
->>>>>>> featurel
-git
+ÄùÆÕ
